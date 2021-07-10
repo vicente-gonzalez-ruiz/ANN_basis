@@ -1,3 +1,3 @@
-# ANN_basis
+# ANN_theory
 
-Artificial Neural Networks basis.
+Basic ANN (Artificial Neural Networks) theory.
